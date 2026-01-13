@@ -8,14 +8,14 @@ from ai import AI
 
 
 def main():
-   # Define height and width of the grid we need to render
-   BOARD_HEIGHT = 16
-   BOARD_WIDTH = 16
+    # Define height and width of the grid we need to render
+    BOARD_HEIGHT = 16
+    BOARD_WIDTH = 16
 
-   #Define colour scheme to use in program, using RGB format
-   BLACK = (0,0,0)
-   WHITE = (255, 255,255)
-   GREY = (128, 128, 128)
+    # Define colour scheme to use in program, using RGB format
+    BLACK = (0, 0, 0)
+    WHITE = (255, 255, 255)
+    GREY = (128, 128, 128)
 
     # Create game window with pygame, using information from the display to get dimensions
     pygame.init()
