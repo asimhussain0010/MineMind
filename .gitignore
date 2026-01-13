@@ -1,0 +1,12 @@
+.venv/
+venv/
+.replit
+replit.nix
+__pycache__/
+.config/
+.upm/
+poetry.lock
+pyproject.toml
+.breakpoints
+.lesson
+.vscode/
